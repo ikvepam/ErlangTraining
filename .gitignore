@@ -1,2 +1,2 @@
-erl[0-9]*.erl~
-erl[0-9]*.beam
+*~
+*.beam
